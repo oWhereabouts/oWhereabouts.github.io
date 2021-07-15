@@ -1,0 +1,130 @@
+	.navbar {
+		background-color: #FFF;
+		border-color: #FFF;
+		font-family: fira-sans, sans-serif;
+		text-align: center;
+		font-size: 16px;
+	}
+	
+	body {
+		background-color: #FFF;
+	}
+	
+	.portfolio-thumbnail {
+		background-color: white;
+		border-width: 4px;
+		border-style: solid;
+		border-color: white;
+	}
+	
+	.portfolio-thumbnail img {
+		height: 250px;
+	}
+	
+	.portfolio-blog {
+		text-align: left;
+		font-family: fira-sans, sans-serif;
+		width: 20%;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		float: right;
+	}
+	
+	.portfolio-feature img {
+		width: 75%;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		float: left;
+	}
+	
+	.about-container {
+		width: 80%;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	
+	.portfolio-headshot img {
+		float: right;
+		width: 50%;
+		padding-left: 5px;
+		max-width: 500px;
+	}
+	
+	.portfolio-bio {
+		width: 50%;
+		font-family: fira-sans;
+		text-align: left;
+		padding-right: 10px;
+	}
+	
+	.connect {
+		text-align: center;
+		float: right;
+	}
+	
+	.container {
+		text-align: center;
+	}
+	
+	ul {
+		list-style-type: none;
+	}
+	
+	
+	footer {
+		text-align: center;
+		bottom: 0;
+	}
+	
+	h1 {
+		text-align: center;
+		font-family: abril-display;
+	}
+	
+	h2 {
+		text-align: center;
+		font-family: abril-display;
+	}
+	
+	h3 {
+		font-family: abril-display;
+		font-size: medium;
+		letter-spacing: 1px;
+	}
+	
+	.brava {
+		margin-left: 15%;
+		margin-right: 15%;
+	}
+	
+	.brava-list {
+		text-align: left;
+		margin-left: 15%;
+	}
+	
+	.landing {
+		text-align: left;
+		float: center;
+		font-family: abril-display;
+		font-size: 72px;
+		margin: 0px 0px 70px;
+	}
+	
+	.landing-img {
+		width: 20%;
+		float: center;
+		margin: 0px 70px 0px 0px;
+	}
+	
+	a:link,
+	a:visited{
+		color: #000;
+		background-color: #FFF;
+	}
+	
+	a:hover{
+		color: #FFF;
+		background-color: #000;
+	}
